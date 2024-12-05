@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ShubhamKumar\\OneDrive - C3IT Software Solutions Pvt. Ltd\\Desktop\\SS_Enterprise\\Enterprise.Services\\Enterprise.Services.csproj",
+      "projectUniqueName": "C:\\Users\\ShubhamKumar\\OneDrive - C3IT Software Solutions Pvt. Ltd\\Desktop\\EnterpriseApplication\\Enterprise.Services\\Enterprise.Services.csproj",
       "projectName": "Enterprise.Services",
-      "projectPath": "C:\\Users\\ShubhamKumar\\OneDrive - C3IT Software Solutions Pvt. Ltd\\Desktop\\SS_Enterprise\\Enterprise.Services\\Enterprise.Services.csproj",
+      "projectPath": "C:\\Users\\ShubhamKumar\\OneDrive - C3IT Software Solutions Pvt. Ltd\\Desktop\\EnterpriseApplication\\Enterprise.Services\\Enterprise.Services.csproj",
       "packagesPath": "C:\\Users\\ShubhamKumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ShubhamKumar\\OneDrive - C3IT Software Solutions Pvt. Ltd\\Desktop\\SS_Enterprise\\Enterprise.Services\\obj\\",
+      "outputPath": "C:\\Users\\ShubhamKumar\\OneDrive - C3IT Software Solutions Pvt. Ltd\\Desktop\\EnterpriseApplication\\Enterprise.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
