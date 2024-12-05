@@ -1,0 +1,6 @@
+@SSEnterpriseApplication_HostAddress = http://localhost:5254
+
+GET {{SSEnterpriseApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
